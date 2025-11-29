@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1764355100 source:/mnt/Data/Projects/c_programs/FinalReview/project-3/main.c
+	<stdio.h>
+	<stdlib.h>
+
